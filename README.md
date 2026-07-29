@@ -34,3 +34,4 @@ Si actualmente tienes todo en un solo archivo, simplemente crea los dos archivos
 3. Ejecuta la calculadora:
    ```bash
    python calc_gui.py
+prueba
